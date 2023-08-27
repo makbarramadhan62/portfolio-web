@@ -957,11 +957,6 @@ video {
   padding-bottom: 1.5rem;
 }
 
-.px-6 {
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-}
-
 .pb-12 {
   padding-bottom: 3rem;
 }
@@ -1000,18 +995,6 @@ video {
 
 .pt-40 {
   padding-top: 10rem;
-}
-
-.pt-44 {
-  padding-top: 11rem;
-}
-
-.pb-36 {
-  padding-bottom: 9rem;
-}
-
-.pb-8 {
-  padding-bottom: 2rem;
 }
 
 .text-center {
@@ -1337,14 +1320,6 @@ body {
 }
 
 @media (min-width: 640px) {
-  .sm\:pt-32 {
-    padding-top: 8rem;
-  }
-
-  .sm\:pt-44 {
-    padding-top: 11rem;
-  }
-
   .sm\:pt-40 {
     padding-top: 10rem;
   }
